@@ -16,5 +16,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "super-code": "https://github.com/super-elements/super-code.git#master",
+    "super-splitter": "https://github.com/super-elements/super-splitter.git#master",
+    "super-paginate": "https://github.com/super-elements/super-paginate.git#master",
+    "super-uploader": "https://github.com/super-elements/super-uploader.git#master"
+  }
 }
